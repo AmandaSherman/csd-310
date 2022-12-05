@@ -1,4 +1,0 @@
-'''
-Orange Group
-'''
-
